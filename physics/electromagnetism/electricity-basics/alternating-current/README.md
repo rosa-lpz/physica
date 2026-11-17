@@ -1,10 +1,15 @@
-# DC Motor
+# Alternating Current
 
 
 
 
 
 # References
+
+* Wikipedia
+
+  * https://en.wikipedia.org/wiki/Alternating_current
+  * https://en.wikipedia.org/wiki/AC_power
 
 * The Engineering Mindset
 
