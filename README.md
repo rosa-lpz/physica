@@ -1,17 +1,20 @@
-# Physics
+# Physica
 
-Physics is the scientific study of matter, its fundamental constituents, its motion and behavior through space and time, and the related entities of energy and force. It is one of the most fundamental scientific disciplines. A scientist who specializes in the field of physics is called a physicist.
+Physica (-ae, f., Graece φυσική 'naturalis', a Graeco φύσις 'natura') est scientia naturalis quae in studio materiae et eius motus per spatium tempusque implicatur, cum notionibus cognatis sicut energia et vis.Latius descripta, physica est generalis rerum naturae explicatio praebita omnes ad causas intellegandas quibus universum se gerit.
 
-Physics is one of the oldest academic disciplines. Over much of the past two millennia, physics, chemistry, biology, and certain branches of mathematics were part of natural philosophy, but during the Scientific Revolution in the 17th century, these natural sciences branched into separate research endeavors. Physics intersects with many interdisciplinary areas of research, such as biophysics and quantum chemistry, and the boundaries of physics are not rigidly defined. New ideas in physics often explain the fundamental mechanisms studied by other sciences and suggest new avenues of research in these and other academic disciplines, such as mathematics and philosophy.
+Physica inter venerabiliores disciplinas academicas numeratur, fortasse etiam veterrimas (cum astronomia). Per duo millennia autem, usque post res novas scientificas saeculi XVI physica fuit indiscreta pars philosophiae naturalis et historiae naturalis, una cum chemia, certis mathematicae ramis, et biologia. Tandem, saeculo decimo nono haec studia indiscreta in varias disciplinas hodiernas specializata sunt. Nihiliminus, usque hodie novae notiones in physica saepe fundamentales aliarum scientiarum machinationes explicant cum novas aperiunt rationes investigationis e.g. in mathematica et philosophia.
 
-Advances in physics often enable new technologies. For example, advances in the understanding of electromagnetism, solid-state physics, and nuclear physics led directly to the development of technologies that have transformed modern society, such as television, computers, domestic appliances, and nuclear weapons; advances in thermodynamics led to the development of industrialization; and advances in mechanics inspired the development of calculus.
+Physica in saecula maxime prodest propter progressum in technologiis quae ex inventis theoreticis oriuntur. Exempli gratia, progressus in cognitione electromagnetismi et physicae nuclearis ad evolutionem novorum operum recte duxit, quae societates hodiernas multo mutavit, sicut televisio, computatra, apparatus domestici, et arma nuclearia. Progressus quoque in thermodynamica ad evolutionem industrializationis duxit, et progressus in mechanica evolutionem calculi excitavit.
 
 # References
+* https://la.wikipedia.org/wiki/Physica
 * https://en.wikipedia.org/wiki/Physics
+* https://la.wikipedia.org/wiki/Scientia_(ratio)
 
-Alternators
-* https://www.bbc.co.uk/bitesize/guides/z9f92nb/revision/2
-* https://livephysics.com/infographics/auto-how-an-alternator-works/
+
+
+
+
 ## Courses
 
 * UMKC - Physics 240 Lecture 1: https://www.youtube.com/watch?v=DFhdUQ9AZw4&list=PLE49943BB35B1C45B&index=123
