@@ -67,4 +67,4 @@ This is the type of electricity in  batteries
 * The Engineering Mindset
   * Electricy Basics - Playlist: https://youtube.com/playlist?list=PLWv9VM947MKjuqlJVp5m_Edf66SrFSHx2&si=cj0lQ1XMM_TvTYZN
   * How ELECTRICITY works - working principle: https://youtu.be/mc979OhitAg
-  * 
+  * [How Electricity Works - for visual learners](https://www.youtube.com/watch?v=3KePcASD0NQ)   
